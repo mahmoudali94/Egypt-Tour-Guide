@@ -1,0 +1,69 @@
+<resources>
+    <string name="app_name">Egypt Tour Guide</string>
+    <string name="tab_text_1">PLACES</string>
+    <string name="tab_text_2">HOTELS</string>
+
+    <!--    PLACES STRINGS  -->
+    <string name="place_title_1">Pyramids of Giza</string>
+    <string name="place_description_1">The last surviving of the Seven Wonders of the Ancient World, the Pyramids of Giza are one of the worlds most recognizable landmarks. Built as tombs for the mighty Pharaohs and guarded by the enigmatic Sphinx, Gizas pyramid complex has awed travelers down through the ages and had archaeologists and a fair few conspiracy theorists scratching their heads over how they were built for centuries.</string>
+    <string name="place_title_2">Luxors Karnak Temple</string>
+    <string name="place_description_2">Famed for the Valley of the Kings, Karnak Temple, and the Memorial Temple of Hatshepsut, the Nile-side town of Luxor in Upper Egypt has a glut of tourist attractions. This is ancient Thebes, power base of the New Kingdom pharaohs, and home to more sights than most can see on one visit.</string>
+    <string name="place_title_3">Islamic Cairo</string>
+    <string name="place_description_3">The atmospheric, narrow lanes of the capital Islamic Cairo district are crammed full of mosques, madrassas (Islamic schools of learning), and monuments dating from the Fatimid through to the Mameluke eras. This is where you will find the labyrinth shopping souk of Khan el-Khalili, where coppersmiths and artisans still have their tiny workshops, and stalls are laden with ceramics, textiles, spice, and perfume</string>
+    <string name="place_title_4">Aswan</string>
+    <string name="place_description_4">Egypt most tranquil town is Aswan, set upon the winding curves of the Nile. Backed by orange-hued dunes, this is the perfect place to stop and unwind for a few days and soak up the chilled-out atmosphere. Take the river ferry across to Elephantine Island and stroll the colorful streets of the Nubian villages. Ride a camel to the desert monastery of St. Simeon on the East Bank. Or just drink endless cups of tea on one of the riverboat restaurants, while watching the lateen-sailed feluccas drift past.</string>
+    <string name="place_title_5">Abu Simbel</string>
+    <string name="place_description_5">Even in a country festooned with temples, Abu Simbel is something special. This is Ramses IIs great temple, adorned with colossal statuary standing guard outside, and with an interior sumptuously decorated with wall paintings. Justly famous for its megalithic proportions, Abu Simbel is also known for the incredible feat, which saw the entire temple moved from its original setting — set to disappear under the water because of the Aswan dam — during the 1960s in a massive UNESCO operation that took four years.</string>
+    <string name="place_title_6">Egyptian Museum</string>
+    <string name="place_description_6">A treasure trove of the Pharaonic world, Cairos Egyptian Museum is one of the worlds great museum collections. The faded pink mansion is home to a dazzling amount of exhibits. It is a higgledy-piggledy place with little labeling on offer and not much chronological order, but that is half of its old-school charm.</string>
+    <string name="place_title_7">White Desert</string>
+    <string name="place_description_7">Egypts kookiest natural wonder is the White Desert, where surreally shaped chalk mountains have created what looks like a snowy wonderland in the middle of the arid sand. The landscapes here look like something out of a science fiction movie, with blindingly white boulders and iceberg-like pinnacles. For desert fans and adventurers, this is the ultimate weird playground, while anybody who is had their fill of temples and tombs will enjoy this spectacular natural scenery.</string>
+
+    <!--    HOTELS STRINGS  -->
+
+    <string name="hotel_title_1">Horus Guest House Pyramids View</string>
+    <string name="hotel_description_1">Horus Guest House is a 2-minute walk from the entrance of Great Pyramids Of Giza and Sphinx. The guest house is 12 km from Mosque of Ibn Tulun. Free WiFi is offered throughout the property.
+The air-conditioned unit offer towels and bed linen are. Other facilities at Horus Guest House include a barbecue. Honeymooners receive s surprise from the property.
+A free Egyptian style breakfast is served at the propertys restaurant. A currency exchange shop and gift shop are available at the property. Complimentary water for guests all day.
+Bike hire and car hire are available at the property and the area is popular for horse riding. The Egyptian Museum is 12 km from Horus Guest House, while Mosque of Mohamed Ali Pasha is 13 km away. Cairo International Airport is 29 km from the property.
+Couples particularly like the location — they rated it 8.8 for a two-person trip.</string>
+    <string name="hotel_title_2">Pyramids Guest House</string>
+    <string name="hotel_description_2">Located in Cairo and with Great Sphinx reachable within 400 metres, Pyramids Guest House offers a tour desk, non-smoking rooms, a shared lounge, free WiFi throughout the property and a terrace. All rooms feature a flat-screen TV with satellite channels and a private bathroom. The accommodation provides a 24-hour front desk, room service and currency exchange for guests.
+Guest rooms in the guest house are equipped with a kettle.
+Guests at Pyramids Guest House can enjoy a halal breakfast.
+Giza Pyramids is 1.3 km from the accommodation, while Cairo Tower is 14 km away. The nearest airport is Cairo International Airport, 32 km from Pyramids Guest House.
+Couples particularly like the location — they rated it 9.5 for a two-person trip.</string>
+    <string name="hotel_title_3">Holy sheet Hostel</string>
+    <string name="hotel_description_3">Located in Cairo and with Tahrir Square reachable within less than 600 meters, Holy sheet Hostel features concierge services, rooms, a shared lounge, free WiFi throughout the property and a garden. The property is situated 2.6 km from Khan Al Khalili, 800 m from The Egyptian Museum and 2.1 km from Cairo Tower. The accommodation provides a 24-hour front desk, a shared kitchen and currency exchange for guests.
+        The hostel offers a continental or à la carte breakfast.
+        Al-Azhar Mosque is 2.5 km from Holy sheet Hostel, while El Hussien Mosque is 2.8 km away. The nearest airport is Cairo International, 19 km from the accommodation, and the property offers a paid airport shuttle service.
+        This is our guests favourite part of Cairo, according to independent reviews.
+        Couples particularly like the location — they rated it 9.6 for a two-person trip.</string>
+    <string name="hotel_title_4">Comfort Pyramids inn</string>
+    <string name="hotel_description_4">Located in Cairo, 300 m from Great Sphinx, Comfort Pyramids inn provides accommodation with free bikes, free private parking, a bar and a terrace. Around 1.3 km from Giza Pyramids, the property is also 13 km away from Cairo Tower and offers free WiFi. The accommodation offers a 24-hour front desk, a shared kitchen and currency exchange for guests.
+        Guest rooms in the hostel are equipped with air conditioning, a seating area, a flat-screen TV with cable channels, a kitchenette, a dining area and a private bathroom with a hairdryer, a shower and a bath. All units will provide guests with a desk and a kettle.
+        A continental breakfast is available daily at Comfort Pyramids inn.
+        Mosque of Ibn Tulun is 14 km from the accommodation, while Tahrir Square is 14 km away. The nearest airport is Cairo International Airport, 34 km from Comfort Pyramids inn.
+Couples particularly like the location — they rated it 9.7 for a two-person trip.</string>
+    <string name="hotel_title_5">Tahrir Hostel </string>
+    <string name="hotel_description_5">Set in Cairo 400 m from Tahrir Square Tahrir Hostel provides air conditioned rooms and ashared lounge. Featuring room service, this property also provides guests with a terrace. The accommodation offers a 24 hour front desk, a shared kitchen and currency exchange for guests.
+The units will provide guests with a fridge.
+The hostel offers a continental or à la carte breakfast.
+The Egyptian Museum is 1.6 km from Tahrir Hostel, while Cairo Tower is 1.8 km away. The nearest airport is Cairo International, 20 km from the accommodation, and the property offers a paid airport shuttle service.
+This is our guests favourite part of Cairo, according to independent reviews.
+Couples particularly like the location they rated it 9.6 for a two person trip.</string>
+    <string name="hotel_title_6">Atlantis pyramids inn</string>
+    <string name="hotel_description_6"> One of our bestsellers in Cairo!
+Located in Cairo, 100 m from Great Sphinx, Atlantis pyramids inn provides accommodation with a bar, free private parking, a shared lounge and a terrace. A hot tub and a bicycle rental service are available for guests. The accommodation offers a 24-hour front desk, a shared kitchen and currency exchange for guests.
+At the guest house, each room has a balcony. At Atlantis pyramids inn every room is equipped with air conditioning and a private bathroom.
+A continental breakfast is available daily at the accommodation.
+Giza Pyramids is 1 km from Atlantis pyramids inn, while Cairo Tower is 14 km away. The nearest airport is Cairo International, 34 km from the guest house, and the property offers a paid airport shuttle service.
+Couples particularly like the location — they rated it 9.9 for a two-person trip.</string>
+    <string name="hotel_title_7">Heritage Hostel Cairo</string>
+    <string name="hotel_description_7">Set in Cairo 350 m from Tahrir Square Heritage Hostel Cairo features air conditioned rooms and a shared lounge. The property is situated 400 m from The Egyptian Museum 2.6 km from Khan Al Khalili and 3.1 km from Al-Azhar Mosque. The accommodation offers a 24 hour front desk airport transfers a shared kitchen and free WiFi throughout the property.
+At the hostel every room includes a wardrobe and a private bathroom.
+Guests at Heritage Hostel Cairo can enjoy a continental breakfast.
+Cairo Tower is 1.7 km from the accommodation, while El Hussien Mosque is 3.4 km away. The nearest airport is Cairo International Airport, 19 km from Heritage Hostel Cairo.
+This is our guests favourite part of Cairo, according to independent reviews.
+Couples particularly like the location they rated it 9.4 for a two person trip</string>
+</resources>
