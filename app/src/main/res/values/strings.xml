@@ -2,6 +2,8 @@
     <string name="app_name">Egypt Tour Guide</string>
     <string name="tab_text_1">PLACES</string>
     <string name="tab_text_2">HOTELS</string>
+    <string name="tab_text_3">RESTAURANTS</string>
+    <string name="tab_text_4">EVENTS</string>
 
     <!--    PLACES STRINGS  -->
     <string name="place_title_1">Pyramids of Giza</string>
@@ -66,4 +68,27 @@ Guests at Heritage Hostel Cairo can enjoy a continental breakfast.
 Cairo Tower is 1.7 km from the accommodation, while El Hussien Mosque is 3.4 km away. The nearest airport is Cairo International Airport, 19 km from Heritage Hostel Cairo.
 This is our guests favourite part of Cairo, according to independent reviews.
 Couples particularly like the location they rated it 9.4 for a two person trip</string>
+
+    <!--    Restaurants STRINGS  -->
+    <string name="restaurants_title_1">Le Pacha 1901</string>
+    <string name="restaurants_description_1">Le Pacha offers 7 different restaurants and one bar/lounge/nightspot-ish venue</string>
+    <string name="restaurants_title_2">Abou El Sid</string>
+    <string name="restaurants_description_2">Abou El Sid is the must-go-to restaurant if you want classic Egyptian dishes in a super ambient atmosphere (the decor, music, and wall art is enough to make it worth it). They also offer shisha and Egyptian twists on alcoholic cocktails, like vodka with fresh sugarcane juice. </string>
+    <string name="restaurants_title_3">Koshary Abou Tarek</string>
+    <string name="restaurants_description_3">Koshary Abou Tarek is a brightly-lit, fast-foodish type of restaurant in Downtown, and it’s known for having some of the *best* koshary in town.</string>
+    <string name="restaurants_title_4">Pier 88</string>
+    <string name="restaurants_description_4">Pier 88 started as a restaurant/bar in the seaside town of El Gouna on the Red Sea, and its food and overall vibe became so popular that the owners decided to take the plunge and open up shop in Cairo. </string>
+
+    <!--    EVENTS STRINGS  -->
+    <string name="event_title_1">Food Africa Cairo</string>
+    <string name="event_description_1">Food Africa is the continent’s largest International Trade Exhibition specialized in the Food and Agro-industries. The exhibition, combining an innovative format of showcasing, networking, and matchmaking, is a unique platform to access the Egyptian mega-market, and Africa’s booming agriculture industry.
+    </string>
+    <string name="event_title_2">Cairo Fashion and Tex</string>
+    <string name="event_description_2">International Fashion, Garments, Accessories and Textile Exhibition"
+Cairo Fashion and Tex brings with it a solid proof of high quality, thus providing exhibitors and visitors alike with the assurance of making a sound business investment. Cairo Fashion and Tex is the first and only international exhibition specialized in yarn, textile, garment and itâs trimming supplies and accessories in Egypt.</string>
+    <string name="event_title_3">Cairo ICT</string>
+    <string name="event_description_3">Cairo ICT is an international exhibition and conference für information and communication technology and a meeting place for amateurs and professionals alike in the IT business field. The event will cover the fields of Telecom, Information Technology, Electronics, Integrated systems, Satellite and Broadcasting, Hardware and Software, Security, Internet, and related sectors.</string>
+    <string name="event_title_4">Metal and Steel Exhibition</string>
+    <string name="event_description_4">Metal and Steel Exhibition will feature international exhibitors, dedicated new product sectors hundreds of innovative products, an expanded educational program and a high level summit led by industry experts. We’ll be ramping up on all aspects including show content, marketing and networking avenues to create a more fulfilling show for our exhibitors and visitors</string>
+
 </resources>

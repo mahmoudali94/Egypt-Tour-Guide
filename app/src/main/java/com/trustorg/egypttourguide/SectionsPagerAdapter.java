@@ -15,7 +15,7 @@ import androidx.fragment.app.FragmentPagerAdapter;
 public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     @StringRes
-    private static final int[] TAB_TITLES = new int[]{R.string.tab_text_1, R.string.tab_text_2};
+    private static final int[] TAB_TITLES = new int[]{R.string.tab_text_1, R.string.tab_text_2, R.string.tab_text_3, R.string.tab_text_4};
     private final Context mContext;
 
     public SectionsPagerAdapter(Context context, FragmentManager fm) {
@@ -29,8 +29,12 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
         // Return a PlaceholderFragment (defined as a static inner class below).
         if (position == 0) {
             return new PlacesFragment();
-        } else {
+        } else if (position == 1) {
             return new HotelsFragment();
+        } else if (position == 2) {
+            return new RestaurantsFragment();
+        } else {
+            return new EventsFragment();
         }
     }
 
@@ -42,7 +46,7 @@ public class SectionsPagerAdapter extends FragmentPagerAdapter {
 
     @Override
     public int getCount() {
-        // Show 2 total pages.
-        return 2;
+        // Show 4 total pages.
+        return 4;
     }
 }
